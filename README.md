@@ -1,5 +1,6 @@
 # IBM-training_-learning-
 
 
-## **-[ORDINAL ENCODING](ordinal_encoding.ipynb)-ORDINAL ENCODING**
+## **-1. [ORDINAL ENCODING](ordinal_encoding.ipynb)-ORDINAL ENCODING**
+
 
