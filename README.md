@@ -2,9 +2,9 @@
 
 ## **-1. [Normalization](NORMALIZATION.ipynb)**
 
-## **-1. [Standardization](standarlization.ipynb)-**
+## **-. [Standardization](standarlization.ipynb)-**
 
 
-## **-1. [ORDINAL ENCODING](ordinal_encoding.ipynb)-Ordinal Encoding is a technique used to convert ordered categorical data into numbers**
+## **-. [ORDINAL ENCODING](ordinal_encoding.ipynb)-Ordinal Encoding is a technique used to convert ordered categorical data into numbers**
 
-
+## **- [one_hot_encoding](one_hot_encoding.ipynb)
