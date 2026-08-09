@@ -15,3 +15,5 @@
 
 ## **- Scikit_learn_pipeline**
    - [Without using Pipeline](titanic_without_using_pipeline.ipynb)
+   - [Without using Pipeline another practice](cars-without-using-pipelines.ipynb)
+  
