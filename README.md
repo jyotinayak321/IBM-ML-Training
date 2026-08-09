@@ -9,7 +9,7 @@
 
 ## **-4. [one_hot_encoding](one_hot_encoding.ipynb)-**
 
-## **-5. [Column Transforme](Column_Transformer.ipynb)-**
+## **-5. [Column Transforme](Column_Transformer.ipy)-**
 
  
 
@@ -18,6 +18,7 @@
    - [Without using Pipeline](titanic_without_using_pipeline.ipynb)
    - [Without using Pipeline another practice](cars-without-using-pipelines.ipynb)
    ## **- Scikit_learn_with_pipeline**
-   - [Without using Pipeline](titanic-using-pipeline.ipynb)
+   - [Without using Pipeline](titanic_using_pipeline.ipynb)
+   
    
   
