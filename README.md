@@ -11,3 +11,4 @@
 
 ## **- [Column Transforme](Column_Transformer.ipynb)
 
+## **- [Scikit_learn_pipeline](titanic-without-using-pipeline.ipynb)- without using pipeline 
