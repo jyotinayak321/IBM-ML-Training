@@ -15,8 +15,8 @@
 
 ## **- Scikit_learn_pipeline**
 
-    ## **- Scikit_learn_without_pipeline**
-  
+  ## **- Scikit_learn_without_pipeline**
+ 
    - [Without using Pipeline](titanic_without_using_pipeline.ipynb)
    - [Without using Pipeline another practice](cars-without-using-pipelines.ipynb)
 
