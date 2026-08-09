@@ -7,9 +7,9 @@
 
 ## **-3. [ORDINAL ENCODING](ordinal_encoding.ipynb)-Ordinal Encoding is a technique used to convert ordered categorical data into numbers**
 
-## **-4. [one_hot_encoding](one_hot_encoding.ipynb)
+## **-4. [one_hot_encoding](one_hot_encoding.ipynb)-**
 
-## **-5. [Column Transforme](Column_Transformer.ipynb)
+## **-5. [Column Transforme](Column_Transformer.ipynb)-**
 
  
 
