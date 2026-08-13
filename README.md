@@ -20,5 +20,7 @@
    ## **- Scikit_learn_with_pipeline**
    - [Without using Pipeline](titanic_using_pipeline.ipynb)
    
-   
+## **-7. Function transformer ** 
+  ## **- [Columns transformer](Column_Transformer.ipynb)**
+  ## **- [Power transformer](Power transformer.ipynb.ipynb)**
   
