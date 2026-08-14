@@ -9,7 +9,7 @@
 
 ## **-4. [one_hot_encoding](one_hot_encoding.ipynb)-**
 
-## **-5. [Column Transforme](Column_Transformer.ipy)-**
+## **-5. [Column Transforme](Column_Transformer.ipynb)-**
 
  
 
