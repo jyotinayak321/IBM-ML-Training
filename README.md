@@ -23,4 +23,8 @@
 ## **-7. Function transformer ** 
   ## **- [Columns transformer](Column_Transformer.ipynb)**
   ## **- [Power transformer](Power_transformer.ipynb)**
+
+## **-8. binning-and-binarization ** 
+  ## **- [binarization](binarization.ipynb)**
+  ## **- [Discretization](Discretization.ipynb)**
   
