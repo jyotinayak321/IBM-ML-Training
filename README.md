@@ -31,5 +31,5 @@
 ## **-9. HANDLEING MIXED VARIABLE  **
 
   ## **-[handle-mixed-variable-01](HANDLE_MIXED_VARIABLE_01.ipynb)**
-  ## **-[handle-mixed-date,time](handle-mixed-date,time.ipynb)**
+  ## **-[handle-mixed-date,time](handle_mixed_date,time.ipynb)**
   
