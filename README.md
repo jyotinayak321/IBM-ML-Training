@@ -33,4 +33,6 @@
   ## **-[handle-mixed-variable-01](HANDLE_MIXED_VARIABLE_01.ipynb)**
   ## **-[handle-mixed-date,time](handle_mixed_date,time.ipynb)**
   ## **-[imputing-numerical-data](imputing-numerical-data/arbitrary-value-imputation.ipynb)**
-  ## **-[mean-median-imputation](mean-median-imputation.ipynb)** 
+  ## **-[mean-median-imputation](mean_median_imputation.ipynb)** 
+
+  
