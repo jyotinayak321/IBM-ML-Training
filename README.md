@@ -30,4 +30,4 @@
 
 ## **-9. HANDLEING MIXED VARIABLE  **
 
-  ## **-[handle-mixed-variable-01](HANDLE_MIXED_VARIABLE_01.ipynb)
+  ## **-[handle-mixed-variable-01](HANDLE_MIXED_VARIABLE_01.ipynb)**
