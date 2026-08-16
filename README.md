@@ -34,5 +34,5 @@
   ## **-[handle-mixed-date,time](handle_mixed_date,time.ipynb)**
   ## **-[imputing-numerical-data](imputing-numerical-data/arbitrary-value-imputation.ipynb)**
   ## **-[mean-median-imputation](mean_median_imputation.ipynb)** 
-
+  ## **-[complete-case-anyalist](Complete_case_anyalyist.ipynb)**
   
