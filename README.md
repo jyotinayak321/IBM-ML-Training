@@ -41,4 +41,4 @@
 =======================================================================
 ## **- [DECISION TREE ](Decision_Tree_ibm.ipynb)-  A supervised ML algorithm that splits data based on feature conditions to predict an output**
 
-## **-3. [KNN algorithm](KNN_ibm.ipynb)-   A supervised learning algorithm that predicts a data point’s class or value based on the K closest data points in the training dataset**
+## **-. [KNN algorithm](KNN_ibm.ipynb)-   A supervised learning algorithm that predicts a data point’s class or value based on the K closest data points in the training dataset**
