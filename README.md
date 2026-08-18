@@ -36,3 +36,8 @@
   ## **-[mean-median-imputation](mean_median_imputation.ipynb)** 
   ## **-[complete-case-anyalist](Complete_case_anyalyist.ipynb)**
   ## **-[frequent-value-imputation](frequent-value-imputation.ipynb)**
+
+
+==================================================================================================================
+
+## **-3. [KNN algorithm](KNN_ibm.ipynb)-A supervised learning algorithm that predicts a data point’s class or value based on the K closest data points in the training dataset**
