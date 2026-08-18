@@ -23,7 +23,7 @@
 ## **-7. Function transformer ** 
   ## **- [Columns transformer](Column_Transformer.ipynb)**
   ## **- [Power transformer](Power_transformer.ipynb)**
-
+## **- [Columns transformer](Column_Transformer.ipynb)**
 ## **-8. binning-and-binarization ** 
   ## **- [binarization](binarization.ipynb)**
   ## **- [Discretization](Discretization.ipynb)**
@@ -39,5 +39,6 @@
 
 
 =======================================================================
+## **- [DECISION TREE ](Decision_Tree_ibm.ipynb)-  A supervised ML algorithm that splits data based on feature conditions to predict an output**
 
-## **-3. [KNN algorithm](KNN_ibm.ipynb)-A supervised learning algorithm that predicts a data point’s class or value based on the K closest data points in the training dataset**
+## **-3. [KNN algorithm](KNN_ibm.ipynb)-   A supervised learning algorithm that predicts a data point’s class or value based on the K closest data points in the training dataset**
