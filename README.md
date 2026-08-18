@@ -20,15 +20,15 @@
    ## **- Scikit_learn_with_pipeline**
    - [Without using Pipeline](titanic_using_pipeline.ipynb)
    
-## **-7. Function transformer ** 
+## **-7. Function transformer** 
   ## **- [Columns transformer](Column_Transformer.ipynb)**
   ## **- [Power transformer](Power_transformer.ipynb)**
 ## **- [Columns transformer](Column_Transformer.ipynb)**
-## **-8. binning-and-binarization ** 
+## **-8. binning-and-binarization** 
   ## **- [binarization](binarization.ipynb)**
   ## **- [Discretization](Discretization.ipynb)**
 
-## **-9. HANDLEING MIXED VARIABLE  **
+## **-9. HANDLEING MIXED VARIABLE**
 
   ## **-[handle-mixed-variable-01](HANDLE_MIXED_VARIABLE_01.ipynb)**
   ## **-[handle-mixed-date,time](handle_mixed_date,time.ipynb)**
