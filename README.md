@@ -42,3 +42,5 @@
 ## **- [DECISION TREE ](Decision_Tree_ibm.ipynb)-  A supervised ML algorithm that splits data based on feature conditions to predict an output**
 
 ## **-. [KNN algorithm](KNN_ibm.ipynb)-   A supervised learning algorithm that predicts a data point’s class or value based on the K closest data points in the training dataset**
+
+## **-. [Random_forest_ibm](Random_forest_ibm.ipynb)-  Random Forest is a supervised machine learning ensemble algorithm that combines multiple Decision Trees to make a more accurate and stable prediction.**
