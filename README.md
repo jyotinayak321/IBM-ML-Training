@@ -49,3 +49,5 @@
 ## **-. [KNN algorithm](KNN_ibm.ipynb)-   A supervised learning algorithm that predicts a data point’s class or value based on the K closest data points in the training dataset**
 
 ## **-. [Random_forest_ibm](Random_forest_ibm.ipynb)-  Random Forest is a supervised machine learning ensemble algorithm that combines multiple Decision Trees to make a more accurate and stable prediction.**
+
+## **-. [SVM_ibm.ipynb](SVM)- SVM (Support Vector Machine) ek supervised machine learning algorithm hai jo mainly classification aur regression ke liye use hota hai,SVM finds the best boundary (hyperplane) to separate data points into different classes.**
