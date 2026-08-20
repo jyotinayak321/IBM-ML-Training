@@ -37,7 +37,7 @@
   ## **-[complete-case-anyalist](Complete_case_anyalyist.ipynb)**
   ## **-[frequent-value-imputation](frequent-value-imputation.ipynb)**
 
-
+## **-[10. KNN imputer](knn-imputer.ipynb)**
 =======================================================================
 ## **- [DECISION TREE ](Decision_Tree_ibm.ipynb)-  A supervised ML algorithm that splits data based on feature conditions to predict an output**
 
