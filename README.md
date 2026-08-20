@@ -41,7 +41,7 @@
 
  <img width="564" height="400" alt="image" src="https://github.com/user-attachments/assets/866f38ec-6505-44e0-98b3-be0c96a4ee8d" />
 
-## **-11.[MICE](knn_imputer.ipynb)-multivaritiate impuration by chanined equation**
+## **-11.[MICE](MICE.ipynb)-multivaritiate impuration by chanined equation**
 
 =======================================================================
 ## **- [DECISION TREE ](Decision_Tree_ibm.ipynb)-  A supervised ML algorithm that splits data based on feature conditions to predict an output**
