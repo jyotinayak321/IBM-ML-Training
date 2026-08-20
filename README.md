@@ -37,7 +37,12 @@
   ## **-[complete-case-anyalist](Complete_case_anyalyist.ipynb)**
   ## **-[frequent-value-imputation](frequent-value-imputation.ipynb)**
 
-## **-10.[KNN imputer](knn_imputer.ipynb)-multivarient imputer with knn **
+## **-10.[KNN imputer](knn_imputer.ipynb)-multivarient imputer with knn**
+
+ <img width="564" height="400" alt="image" src="https://github.com/user-attachments/assets/866f38ec-6505-44e0-98b3-be0c96a4ee8d" />
+
+## **-11.[MICE](knn_imputer.ipynb)-multivaritiate impuration by chanined equation**
+
 =======================================================================
 ## **- [DECISION TREE ](Decision_Tree_ibm.ipynb)-  A supervised ML algorithm that splits data based on feature conditions to predict an output**
 
