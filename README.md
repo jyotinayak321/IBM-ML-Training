@@ -43,6 +43,7 @@
 
 ## **-11.[MICE](MICE.ipynb)-multivaritiate impuration by chanined equation**
 
+## **-11.[OUTLIERS](MICE.ipynb)-Outliers are data points that are significantly different from the other observations in a dataset.**
 =======================================================================
 ## **- [DECISION TREE ](Decision_Tree_ibm.ipynb)-  A supervised ML algorithm that splits data based on feature conditions to predict an output**
 
