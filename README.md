@@ -52,3 +52,5 @@
 ## **-. [Random_forest_ibm](Random_forest_ibm.ipynb)-  Random Forest is a supervised machine learning ensemble algorithm that combines multiple Decision Trees to make a more accurate and stable prediction.**
 
 ## **-. [SVM](SVM_ibm.ipynb)- SVM (Support Vector Machine) ek supervised machine learning algorithm hai jo mainly classification aur regression ke liye use hota hai,SVM finds the best boundary (hyperplane) to separate data points into different classes.**
+
+## **-. [K-Mean](K_Mean.ipynb)-K-Means is an unsupervised ML algorithm that groups similar data points into K clusters based on their distance from the cluster center (centroid)**
