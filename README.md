@@ -1,69 +1,4 @@
-# IBM-training_-learning-
 
-## **-1. [Normalization](NORMALIZATION.ipynb)**
-
-## **-2. [Standardization](standarlization.ipynb)-**
-
-
-## **-3. [ORDINAL ENCODING](ordinal_encoding.ipynb)-Ordinal Encoding is a technique used to convert ordered categorical data into numbers**
-
-## **-4. [one_hot_encoding](one_hot_encoding.ipynb)-**
-
-## **-5. [Column Transforme](Column_Transformer.ipynb)-**
-
- 
-
-## **-6. Scikit_learn_pipeline**
-  ## **- Scikit_learn_without_pipeline**
-   - [Without using Pipeline](titanic_without_using_pipeline.ipynb)
-   - [Without using Pipeline another practice](cars-without-using-pipelines.ipynb)
-   ## **- Scikit_learn_with_pipeline**
-   - [Without using Pipeline](titanic_using_pipeline.ipynb)
-   
-## **-7. Function transformer** 
-  ## **- [Columns transformer](Column_Transformer.ipynb)**
-  ## **- [Power transformer](Power_transformer.ipynb)**
-## **- [Columns transformer](Column_Transformer.ipynb)**
-## **-8. binning-and-binarization** 
-  ## **- [binarization](binarization.ipynb)**
-  ## **- [Discretization](Discretization.ipynb)**
-
-## **-9. HANDLEING MIXED VARIABLE**
-
-  ## **-[handle-mixed-variable-01](HANDLE_MIXED_VARIABLE_01.ipynb)**
-  ## **-[handle-mixed-date,time](handle_mixed_date,time.ipynb)**
-  ## **-[imputing-numerical-data](imputing-numerical-data/arbitrary-value-imputation.ipynb)**
-  ## **-[mean-median-imputation](mean_median_imputation.ipynb)** 
-  ## **-[complete-case-anyalist](Complete_case_anyalyist.ipynb)**
-  ## **-[frequent-value-imputation](frequent-value-imputation.ipynb)**
-
-## **-10.[KNN imputer](knn_imputer.ipynb)-multivarient imputer with knn**
-
- <img width="564" height="400" alt="image" src="https://github.com/user-attachments/assets/866f38ec-6505-44e0-98b3-be0c96a4ee8d" />
-
-## **-11.[MICE](MICE.ipynb)-multivaritiate impuration by chanined equation**
-
-## **-12.[OUTLIERS](MICE.ipynb)-Outliers are data points that are significantly different from the other observations in a dataset.**
-==================================================================================
-==================================================================================
-==================================================================================
-## **- [DECISION TREE ](Decision_Tree_ibm.ipynb)-  A supervised ML algorithm that splits data based on feature conditions to predict an output**
-
-## **-. [KNN algorithm](KNN_ibm.ipynb)-   A supervised learning algorithm that predicts a data point’s class or value based on the K closest data points in the training dataset**
-
-## **-. [Random_forest_ibm](Random_forest_ibm.ipynb)-  Random Forest is a supervised machine learning ensemble algorithm that combines multiple Decision Trees to make a more accurate and stable prediction.**
-
-## **-. [SVM](SVM_ibm.ipynb)- SVM (Support Vector Machine) ek supervised machine learning algorithm hai jo mainly classification aur regression ke liye use hota hai,SVM finds the best boundary (hyperplane) to separate data points into different classes.**
-
-## **-. [K-Mean](K_Mean.ipynb)-K-Means is an unsupervised ML algorithm that groups similar data points into K clusters based on their distance from the cluster center (centroid)**
-
-
-
-
-
-
-
-===========================
 # IBM Training & Learning
 
 ## **1. [Normalization](NORMALIZATION.ipynb)**
@@ -121,6 +56,9 @@ MICE (Multiple Imputation by Chained Equations) is a multivariate imputation tec
 
 [Outliers](MICE.ipynb) - Outliers are data points that are significantly different from the other observations in a dataset.
 
+'''
+===========================================================================
+'''
 
 # Machine Learning Algorithms
 
