@@ -76,3 +76,9 @@ SVM (Support Vector Machine) is a supervised machine learning algorithm mainly u
 
 ## **[K-Means Clustering](K_Mean.ipynb)**
 K-Means is an unsupervised machine learning algorithm that groups similar data points into K clusters based on their distance from the cluster center (centroid).
+
+## **[Hierarchical](Hierarchical.ipynb)**
+Hierarchical Clustering ek Unsupervised Machine Learning algorithm hai jo similar data points ko hierarchy (tree-like structure) ke form mein clusters mein group karta hai.
+
+## **[Hierarchical](Agglomerative_Clustering.ipynb)**
+Agglomerative Clustering starts with many small individual clusters and gradually combines them to form larger clusters based on similarity.
