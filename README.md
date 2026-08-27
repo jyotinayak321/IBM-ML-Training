@@ -80,5 +80,5 @@ K-Means is an unsupervised machine learning algorithm that groups similar data p
 ## **[Hierarchical](Hierarchical.ipynb)**
 Hierarchical Clustering ek Unsupervised Machine Learning algorithm hai jo similar data points ko hierarchy (tree-like structure) ke form mein clusters mein group karta hai.
 
-## **[Hierarchical](Agglomerative_Clustering.ipynb)**
+## **[Agglomerative-Clustering](Agglomerative_Clustering.ipynb)**
 Agglomerative Clustering starts with many small individual clusters and gradually combines them to form larger clusters based on similarity.
