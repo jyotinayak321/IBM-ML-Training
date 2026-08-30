@@ -53,8 +53,7 @@ KNN Imputer is a multivariate imputation technique that handles missing values u
 MICE (Multiple Imputation by Chained Equations) is a multivariate imputation technique used to handle missing values by iteratively predicting them using other variables.
 
 ## **12.Outliers**
-
-[Outliers] - Outliers are data points that are significantly different from the other observations in a dataset.
+Outliers are data points that are significantly different from the other observations in a dataset.
 Techniques of Outliers:
 ### **[Z-score: ](z_score.ipynb)no of standard deviation a data point is from the mean.**
 
