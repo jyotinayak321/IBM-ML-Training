@@ -56,7 +56,7 @@ MICE (Multiple Imputation by Chained Equations) is a multivariate imputation tec
 Outliers are data points that are significantly different from the other observations in a dataset.
 Techniques of Outliers:
 ### **[Z-score: ](z_score.ipynb)no of standard deviation a data point is from the mean.**
-
+### **[IQR Method](IQR.ipynb) it works effectively with skewed distributions**
  
 ============================================================================
 
