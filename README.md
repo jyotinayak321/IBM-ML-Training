@@ -1,4 +1,3 @@
-# IBM-training_-learning-
 # 📚 IBM Training & Learning
 
 This repository contains my learning and practice notebooks from **IBM Machine Learning Training**, covering **Data Preprocessing, Missing Value Handling, Outlier Detection, Supervised Learning, and Unsupervised Learning**.
