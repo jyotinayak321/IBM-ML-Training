@@ -59,7 +59,7 @@ Techniques of Outliers:
 ### **[Z-score: ](z_score.ipynb)no of standard deviation a data point is from the mean.**
 
  
-==============================================================================
+============================================================================
 
 
 
