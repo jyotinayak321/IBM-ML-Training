@@ -1,88 +1,169 @@
-'''
-# IBM Training & Learning
+# 📚 IBM Training & Learning
 
-## **1. [Normalization](NORMALIZATION.ipynb)**
-Normalization is a technique used to scale numerical features to a common range, usually between 0 and 1.
+This repository contains my learning and practice notebooks from **IBM Machine Learning Training**, covering **Data Preprocessing, Missing Value Handling, Outlier Detection, Supervised Learning, and Unsupervised Learning**.
 
-## **2. [Standardization](standarlization.ipynb)**
-Standardization transforms data so that it has a mean of 0 and a standard deviation of 1.
+---
 
-## **3. [Ordinal Encoding](ordinal_encoding.ipynb)**
-Ordinal Encoding is a technique used to convert ordered categorical data into numerical values while preserving their order.
+## 🧹 Data Preprocessing
 
-## **4. [One-Hot Encoding](one_hot_encoding.ipynb)**
-One-Hot Encoding converts categorical data into separate binary columns.
+### 1. Feature Scaling
 
-## **5. [Column Transformer](Column_Transformer.ipynb)**
-Column Transformer applies different preprocessing techniques to different columns of a dataset.
+* **[Normalization](NORMALIZATION.ipynb)**
+  Scales numerical features to a common range, typically between 0 and 1.
 
-## **6. Scikit-Learn Pipeline**
+* **[Standardization](standarlization.ipynb)**
+  Transforms data so that it has a mean of 0 and a standard deviation of 1.
 
-### **Scikit-Learn Without Pipeline**
-- [Without using Pipeline](titanic_without_using_pipeline.ipynb)
-- [Without using Pipeline – Another Practice](cars-without-using-pipelines.ipynb)
+### 2. Categorical Encoding
 
-### **Scikit-Learn With Pipeline**
-- [Using Pipeline](titanic_using_pipeline.ipynb)
+* **[Ordinal Encoding](ordinal_encoding.ipynb)**
+  Converts ordered categorical variables into numerical values while preserving their order.
 
-## **7. Function Transformer**
+* **[One-Hot Encoding](one_hot_encoding.ipynb)**
+  Converts categorical variables into separate binary columns.
 
-### [Column Transformer](Column_Transformer.ipynb)
-### [Power Transformer](Power_transformer.ipynb)
+### 3. Column Transformer
 
-## **8. Binning and Binarization**
+* **[Column Transformer](Column_Transformer.ipynb)**
+  Applies different preprocessing techniques to different columns of a dataset.
 
-### [Binarization](binarization.ipynb)
-### [Discretization](Discretization.ipynb)
+### 4. Scikit-Learn Pipeline
 
-## **9. Handling Mixed Variables**
+#### Without Pipeline
 
-### [Handle Mixed Variables](HANDLE_MIXED_VARIABLE_01.ipynb)
-### [Handle Mixed Date & Time](handle_mixed_date,time.ipynb)
-### [Imputing Numerical Data](imputing-numerical-data/arbitrary-value-imputation.ipynb)
-### [Mean-Median Imputation](mean_median_imputation.ipynb)
-### [Complete Case Analysis](Complete_case_anyalyist.ipynb)
-### [Frequent Value Imputation](frequent-value-imputation.ipynb)
+* **[Titanic – Without Pipeline](titanic_without_using_pipeline.ipynb)**
+* **[Cars – Without Pipeline](cars-without-using-pipelines.ipynb)**
 
-## **10. [KNN Imputer](knn_imputer.ipynb)**
-KNN Imputer is a multivariate imputation technique that handles missing values using information from the nearest data points.
+#### With Pipeline
 
-<img width="564" height="400" alt="KNN Imputer" src="https://github.com/user-attachments/assets/866f38ec-6505-44e0-98b3-be0c96a4ee8d" />
+* **[Titanic – Using Pipeline](titanic_using_pipeline.ipynb)**
 
-## **11. [MICE](MICE.ipynb)**
-MICE (Multiple Imputation by Chained Equations) is a multivariate imputation technique used to handle missing values by iteratively predicting them using other variables.
+### 5. Feature Transformation
 
-## **12.Outliers**
-Outliers are data points that are significantly different from the other observations in a dataset.
-Techniques of Outliers:
-### **[Z-score: ](z_score.ipynb)no of standard deviation a data point is from the mean.**
-### **[IQR Method](IQR.ipynb) it works effectively with skewed distributions**
- 
-============================================================================
+* **[Function Transformer](Column_Transformer.ipynb)**
+* **[Power Transformer](Power_transformer.ipynb)**
 
+Power transformation is useful for reducing skewness and making data distributions more suitable for machine learning algorithms.
 
+---
 
-'''
+## 🔢 Binning & Binarization
 
-# Machine Learning Algorithms
+* **[Binarization](binarization.ipynb)**
+  Converts numerical values into binary values such as 0 and 1.
 
-## **[Decision Tree](Decision_Tree_ibm.ipynb)**
-A supervised machine learning algorithm that splits data based on feature conditions to make predictions.
+* **[Discretization](Discretization.ipynb)**
+  Converts continuous numerical variables into discrete intervals or bins.
 
-## **[KNN Algorithm](KNN_ibm.ipynb)**
-KNN (K-Nearest Neighbors) is a supervised learning algorithm that predicts a data point's class or value based on the K closest data points in the training dataset.
+---
 
-## **[Random Forest](Random_forest_ibm.ipynb)**
-Random Forest is a supervised machine learning ensemble algorithm that combines multiple Decision Trees to make more accurate and stable predictions.
+## 🩹 Missing Value Handling & Imputation
 
-## **[SVM](SVM_ibm.ipynb)**
-SVM (Support Vector Machine) is a supervised machine learning algorithm mainly used for classification and regression. It finds the best boundary (hyperplane) to separate data points into different classes.
+### 1. Handling Mixed Variables
 
-## **[K-Means Clustering](K_Mean.ipynb)**
-K-Means is an unsupervised machine learning algorithm that groups similar data points into K clusters based on their distance from the cluster center (centroid).
+* **[Handle Mixed Variables](HANDLE_MIXED_VARIABLE_01.ipynb)**
+* **[Handle Mixed Date & Time](handle_mixed_date,time.ipynb)**
 
-## **[Hierarchical](Hierarchical.ipynb)**
-Hierarchical Clustering ek Unsupervised Machine Learning algorithm hai jo similar data points ko hierarchy (tree-like structure) ke form mein clusters mein group karta hai.
+### 2. Imputation Techniques
 
-## **[Agglomerative-Clustering](Agglomerative_Clustering.ipynb)**
-Agglomerative Clustering starts with many small individual clusters and gradually combines them to form larger clusters based on similarity.
+* **[Arbitrary Value Imputation](imputing-numerical-data/arbitrary-value-imputation.ipynb)**
+* **[Mean-Median Imputation](mean_median_imputation.ipynb)**
+* **[Complete Case Analysis](Complete_case_anyalyist.ipynb)**
+* **[Frequent Value Imputation](frequent-value-imputation.ipynb)**
+* **[KNN Imputer](knn_imputer.ipynb)**
+* **[MICE](MICE.ipynb)**
+
+**KNN Imputer** uses information from nearby data points to estimate missing values.
+
+**MICE (Multiple Imputation by Chained Equations)** iteratively predicts missing values using other variables in the dataset.
+
+---
+
+## 🚨 Outlier Detection
+
+Outliers are observations that differ significantly from the majority of the data.
+
+### Techniques Covered
+
+* **[Z-Score](z_score.ipynb)**
+  Measures how many standard deviations a data point is away from the mean.
+
+* **[IQR Method](IQR.ipynb)**
+  Uses the Interquartile Range (IQR) to detect outliers and works particularly well with skewed distributions.
+
+---
+
+# 🤖 Machine Learning Algorithms
+
+## 🟢 Supervised Learning
+
+Supervised learning uses labeled data to learn a mapping between input features and target values.
+
+### 1. Decision Tree
+
+**[Decision Tree](Decision_Tree_ibm.ipynb)**
+
+A tree-based supervised learning algorithm that makes predictions by splitting data based on feature conditions.
+
+### 2. K-Nearest Neighbors
+
+**[KNN Algorithm](KNN_ibm.ipynb)**
+
+Predicts the class or value of a new data point based on its K nearest training examples.
+
+### 3. Random Forest
+
+**[Random Forest](Random_forest_ibm.ipynb)**
+
+An ensemble learning algorithm that combines multiple Decision Trees to produce more accurate and stable predictions.
+
+### 4. Support Vector Machine
+
+**[SVM](SVM_ibm.ipynb)**
+
+Finds an optimal decision boundary (hyperplane) to separate different classes. It can also be used for regression.
+
+---
+
+## 🟣 Unsupervised Learning
+
+Unsupervised learning discovers patterns and structures in data without labeled target values.
+
+### 1. K-Means Clustering
+
+**[K-Means](K_Mean.ipynb)**
+
+Groups similar data points into **K clusters** based on their distance from cluster centroids.
+
+### 2. Hierarchical Clustering
+
+**[Hierarchical Clustering](Hierarchical.ipynb)**
+
+Builds a hierarchy of clusters and represents the relationships between data points using a tree-like structure.
+
+### 3. Agglomerative Clustering
+
+**[Agglomerative Clustering](Agglomerative_Clustering.ipynb)**
+
+A bottom-up hierarchical clustering approach that starts with individual data points and progressively merges similar clusters.
+
+---
+
+## 📊 Topics Covered
+
+| Category            | Topics                                                          |
+| ------------------- | --------------------------------------------------------------- |
+| **Feature Scaling** | Normalization, Standardization                                  |
+| **Encoding**        | Ordinal Encoding, One-Hot Encoding                              |
+| **Preprocessing**   | Column Transformer, Pipeline, Function Transformer              |
+| **Transformation**  | Power Transformer, Binarization, Discretization                 |
+| **Missing Values**  | Mean-Median, Arbitrary Value, Frequent Value, KNN Imputer, MICE |
+| **Outliers**        | Z-Score, IQR                                                    |
+| **Supervised ML**   | Decision Tree, KNN, Random Forest, SVM                          |
+| **Unsupervised ML** | K-Means, Hierarchical, Agglomerative Clustering                 |
+
+---
+
+## 🎯 Learning Goal
+
+The goal of this training is to build a strong foundation in **Machine Learning data preprocessing and algorithms**, with hands-on implementation using **Python, Pandas, NumPy, Matplotlib, Seaborn, and Scikit-Learn**.
