@@ -1,4 +1,4 @@
-
+'''
 # IBM Training & Learning
 
 ## **1. [Normalization](NORMALIZATION.ipynb)**
@@ -61,6 +61,8 @@ Techniques of Outliers:
 ============================================================================
 
 
+
+'''
 
 # Machine Learning Algorithms
 
