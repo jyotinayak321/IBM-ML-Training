@@ -162,7 +162,7 @@ A bottom-up hierarchical clustering approach that starts with individual data po
 | **Preprocessing**   | Column Transformer, Pipeline, Function Transformer              |
 | **Transformation**  | Power Transformer, Binarization, Discretization                 |
 | **Missing Values**  | Mean-Median, Arbitrary Value, Frequent Value, KNN Imputer, MICE |
-| **Outliers**        | Z-Score, IQR                                                    |
+| **Outliers**        | Z-Score, IQR, Percentile                                                |
 | **Supervised ML**   | Decision Tree, KNN, Random Forest, SVM                          |
 | **Unsupervised ML** | K-Means, Hierarchical, Agglomerative Clustering                 |
 
