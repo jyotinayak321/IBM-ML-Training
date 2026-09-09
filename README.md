@@ -91,6 +91,10 @@ Outliers are observations that differ significantly from the majority of the dat
 * **[IQR Method](IQR.ipynb)**
   Uses the Interquartile Range (IQR) to detect outliers and works particularly well with skewed distributions.
 
+* **[Percentile](Percentiles_used_for_oulier_detection_and_remover.ipynb)**
+Uses percentile thresholds to detect and cap outliers by setting lower and upper limits based on selected percentiles, making it useful for handling extreme values in a dataset.
+
+
 ---
 
 # 🤖 Machine Learning Algorithms
