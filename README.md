@@ -94,7 +94,13 @@ Outliers are observations that differ significantly from the majority of the dat
 * **[Percentile](Percentiles_used_for_oulier_detection_and_remover.ipynb)**
 Uses percentile thresholds to detect and cap outliers by setting lower and upper limits based on selected percentiles, making it useful for handling extreme values in a dataset.
 
+---
 
+## 🚨 Feature Scaling
+
+values ka scale change karna.
+
+* **[feature construction and feature scaling](FEATURE_CONSTRUCTION_AND_FEATURES_SPLITTING.ipynb)**
 ---
 
 # 🤖 Machine Learning Algorithms
